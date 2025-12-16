@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpBase", "CSharpBase\CSharpBase.csproj", "{EC8B2DD6-05C3-4FE3-BD46-6FFFE1FD9F9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part3ClassesStructuresNamespaces", "Part3ClassesStructuresNamespaces\Part3ClassesStructuresNamespaces.csproj", "{503F6D72-79F4-4E39-BCC1-8AA7E409DEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part3ClassesStructuresNamespaces", "Part3ClassesStructuresNamespaces\Part3ClassesStructuresNamespaces.csproj", "{503F6D72-79F4-4E39-BCC1-8AA7E409DEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part4OOP", "Part4OOP\Part4OOP.csproj", "{D95A5A0A-E527-44B9-9CAA-18F4808FDB53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{503F6D72-79F4-4E39-BCC1-8AA7E409DEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503F6D72-79F4-4E39-BCC1-8AA7E409DEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503F6D72-79F4-4E39-BCC1-8AA7E409DEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95A5A0A-E527-44B9-9CAA-18F4808FDB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95A5A0A-E527-44B9-9CAA-18F4808FDB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95A5A0A-E527-44B9-9CAA-18F4808FDB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95A5A0A-E527-44B9-9CAA-18F4808FDB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
