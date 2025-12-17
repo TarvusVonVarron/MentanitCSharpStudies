@@ -1,4 +1,5 @@
 ﻿using Part4OOP.Inheritance;
+using Part4OOP.TypeConversion;
 using System;
 
 namespace Part4OOP
@@ -8,6 +9,7 @@ namespace Part4OOP
         static void Main(string[] args)
         {
             InheritanceWorker.Run();
+            TypeConversionWorker.Run();
         }
     }
 }
